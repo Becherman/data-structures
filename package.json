@@ -1,0 +1,20 @@
+{
+  "name": "data-structures",
+  "version": "0.0.1",
+  "description": "Data Structure writen on Typescript",
+  "main": "index.js",
+  "author": "Sergii Bulavyk",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "node_modules/.bin/tsc",
+    "test": "jest ."
+  },
+  "dependencies": {
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4"
+  }
+}
